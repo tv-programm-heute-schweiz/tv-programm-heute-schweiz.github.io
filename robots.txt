@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://billnewell597-dev.github.io/tv-programm-heute-schweiz/sitemap.xml
+Sitemap: https://tv-programm-heute-schweiz.github.io/sitemap.xml
