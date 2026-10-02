@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tv-programm-heute-schweiz.github.io/</loc><priority>1.0</priority></url>
-  <url><loc>https://tv-programm-heute-schweiz.github.io/sender.html</loc><priority>0.8</priority></url>
-  <url><loc>https://tv-programm-heute-schweiz.github.io/fernsehabend.html</loc><priority>0.8</priority></url>
-  <url><loc>https://tv-programm-heute-schweiz.github.io/ratgeber.html</loc><priority>0.8</priority></url>
+  <url><loc>https://tv-programm-heute-schweiz.github.io/</loc><lastmod>2026-10-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://tv-programm-heute-schweiz.github.io/sender.html</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://tv-programm-heute-schweiz.github.io/fernsehabend.html</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://tv-programm-heute-schweiz.github.io/ratgeber.html</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://tv-programm-heute-schweiz.github.io/tv-programm-schweiz-heute-richtig-finden.html</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://tv-programm-heute-schweiz.github.io/fernsehprogramm-schweiz-sender-sprachen.html</loc><lastmod>2026-10-02</lastmod></url>
 </urlset>
